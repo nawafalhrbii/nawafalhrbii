@@ -22,3 +22,5 @@ Replace with your VirusTotal API key
 Save the file
 
 4- run python Qrtool.py
+
+![image](https://github.com/user-attachments/assets/7d3f430b-8453-4f25-b8d0-bbc2b41bdcf8)
