@@ -1,0 +1,7 @@
+pyfiglet
+termcolor
+Pillow
+pyzbar
+qrcode
+requests
+
