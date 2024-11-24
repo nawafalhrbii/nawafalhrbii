@@ -10,7 +10,7 @@ QRgun is a Python tool for generating, analyzing, and securing QR codes. It help
 # Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QRgun.git
+   git clone https://github.com/nawafalhrbii/QRgun.git
    cd QRgun
    
 2- pip install -r requirements.txt
